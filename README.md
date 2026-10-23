@@ -1,16 +1,19 @@
-# React + Vite
+# Project Summary
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+# Screenshots of React App
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+# Landing page with 3 Categories
+<img width="1236" height="733" alt="Screenshot 2026-10-23 at 1 27 04 AM" src="https://github.com/user-attachments/assets/ac98e02a-a53e-46d2-b14c-d59ef37dbf3d" />
 
-## React Compiler
+# Product List page based on the Selected Category
+<img width="1245" height="744" alt="Screenshot 2026-10-23 at 1 27 15 AM" src="https://github.com/user-attachments/assets/116b1130-5ca8-4d9b-926d-2d69ee95c2c3" />
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+# Filtered list of products based on the selected filters
+<img width="1124" height="650" alt="Screenshot 2026-10-23 at 1 27 48 AM" src="https://github.com/user-attachments/assets/e4795ad8-af23-4b40-9fe5-91eee1b9f270" />
 
-## Expanding the ESLint configuration
+# Product list page if product not found based on the selected filters
+<img width="1107" height="638" alt="Screenshot 2026-10-23 at 1 34 42 AM" src="https://github.com/user-attachments/assets/b2fb5057-fb96-43ef-8780-3d9346e69a1f" />
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
