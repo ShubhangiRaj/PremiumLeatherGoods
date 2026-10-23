@@ -12,8 +12,8 @@ export default function Header({ selectedCategory, onReset }) {
             Shop Premium Leather Goods
           </h1>
           {selectedCategory && (
-            <p className="text-sm text-gray-500 mt-1">
-              Category: <span className="font-semibold text-gray-800">{selectedCategory}</span>
+            <p className="text-sm text-gray-500">
+              Current Category: <span className="font-semibold text-gray-800">{selectedCategory}</span>
             </p>
           )}
         </div>
@@ -21,9 +21,9 @@ export default function Header({ selectedCategory, onReset }) {
         {selectedCategory && (
           <button
             onClick={onReset}
-            className="text-sm bg-gray-100 hover:bg-gray-200 text-gray-700 py-2 px-4 rounded transition"
+            className="text-sm bg-gray-100 hover:bg-gray-200 text-gray-700 py-2 px-4 rounded"
           >
-            Back to Categories
+            Back to All Categories
           </button>
         )}
       </div>
